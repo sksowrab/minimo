@@ -1,2 +1,2 @@
 # minimo
-Great repository names are short and memorable.
+https://sksowrab.github.io/minimo/
